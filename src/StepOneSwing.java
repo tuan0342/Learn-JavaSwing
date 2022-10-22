@@ -7,6 +7,8 @@ public class StepOneSwing {
 
     private JFrame frame;   // frame là khung
     JButton button;  // button là một thành phần khác
+    
+    // thêm 1 tý code nữa nè
 
     public StepOneSwing() {
         creatAndShow();
