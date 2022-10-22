@@ -3,8 +3,7 @@ import java.awt.*;
 
 public class StepOneSwing {
     // eheehehe
-    // sửa code nè
-       // sửa code lần nữa nè
+
 
     private JFrame frame;   // frame là khung
     JButton button;  // button là một thành phần khác
