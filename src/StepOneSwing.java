@@ -2,6 +2,8 @@ import javax.swing.*;
 import java.awt.*;
 
 public class StepOneSwing {
+    // eheehehe
+
 
     private JFrame frame;   // frame là khung
     JButton button;  // button là một thành phần khác
