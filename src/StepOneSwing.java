@@ -3,6 +3,7 @@ import java.awt.*;
 
 public class StepOneSwing {
     // eheehehe
+    // sửa code nè
 
 
     private JFrame frame;   // frame là khung
