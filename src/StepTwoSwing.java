@@ -7,6 +7,8 @@ import java.awt.event.KeyEvent;
 public class StepTwoSwing extends JFrame implements ActionListener {
     JButton okButton, exitButton, cancelButton;
 
+    // thêm 1 tý code nè
+
     public StepTwoSwing(){
         okButton = new JButton("OK");
         exitButton = new JButton("Exit");
